@@ -1,8 +1,6 @@
 <h1>Feed</h1>
 <% User.all.each do |user| %>
-  <% if user.picture_set? %>
-    <%= user.profile_photo(100) %>
-  <% end %>
-  <%= user.full_name %>
+  <%= user.profile_photo(100) %>
+  <%= user.full_name %> has <%= user.balance %> cheese sticks.
   <br>
 <% end %>
