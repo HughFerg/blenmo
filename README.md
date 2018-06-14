@@ -7,6 +7,7 @@ Blenmo is not associated with Venmo or PayPal in any way.
 A CS (cheesestick) is a (make-cheese durability LoS)
 
 TODO
+  - Chat functionality
   - Add CS transactions and "grab-bag" functionality (ideally 3D)
   - Add variable durablility and ledger of past holders for cheesesticks
   - CS graveyard/obituary
@@ -15,4 +16,3 @@ TODO
   - Personal CS ledgers
   - CS expiration date
   - Add to Ethereum blockchain
- 
