@@ -6,15 +6,6 @@ Better than venmo™.
 
 Blenmo is not associated with Venmo or PayPal in any way.
 
-A CS (cheesestick) is a (make-cheese durability LoS)
+See the [Todo List][todo] to see what work needs to be done to get Blenmo fully operational.
 
-TODO
-  - Chat functionality
-  - Add CS transactions and "grab-bag" functionality (ideally 3D)
-  - Add variable durablility and ledger of past holders for cheesesticks
-  - CS graveyard/obituary
-  - "BAA" functionality and sound effects (see: Facebook pokes)
-  - P2P gambling and betting of CS
-  - Personal CS ledgers
-  - CS expiration date
-  - Add to Ethereum blockchain
+[todo]: TODO.md
