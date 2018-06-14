@@ -13,4 +13,6 @@ TODO
   - "BAA" functionality and sound effects (see: Facebook pokes)
   - P2P gambling and betting of CS
   - Personal CS ledgers
+  - CS expiration date
+  - Add to Ethereum blockchain
  
