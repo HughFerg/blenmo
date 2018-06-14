@@ -2,5 +2,5 @@ language: ruby
 rvm:
   - 2.5.1
 script:
-  - bundle install --without production
-  - rails test
+  - bundle exec rails db:migrate RAILS_ENV=test
+  - bundle exec rails test
