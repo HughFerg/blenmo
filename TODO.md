@@ -9,3 +9,4 @@
  - CS expiration date
  - Add to Ethereum blockchain
  - A CS (cheesestick) is a (make-cheese durability LoS)
+ - Profile page containing trophy case, bio
